@@ -1,0 +1,14 @@
+# Jekyll configuration for the Attunement blog
+# See https://jekyllrb.com/docs/configuration/options/
+title: Modulating Epsilon
+author: Sam Hiatt
+email: modulatingepsilon@gmail.com
+description: Let's make our big ideas matter
+theme: minima
+sass:
+  quiet_deps: true
+baseurl: ""
+url: ""
+
+# Build settings
+markdown: kramdown
