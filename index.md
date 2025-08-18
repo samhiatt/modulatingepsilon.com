@@ -3,6 +3,6 @@ layout: home
 title: Attunement
 ---
 
-Welcome to the Attunement blog. This is a work-in-progress space for exploring
-topics around neurodivergent cognition, monotropism, AI, resonance, and shared
-context.
+Welcome to _MƐ_! 
+This space is a work-in-progress. Hopefully it will _always_ be progressing. 
+But for now, this is just filler.
