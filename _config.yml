@@ -12,3 +12,7 @@ url: ""
 
 # Build settings
 markdown: kramdown
+
+header_pages:
+  - /about.md
+  - /contact.md
