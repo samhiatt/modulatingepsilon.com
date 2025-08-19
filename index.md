@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Attunement
+title: ΔΔodulating Ɛpsilon
 ---
 
 Welcome to _MƐ_! 
