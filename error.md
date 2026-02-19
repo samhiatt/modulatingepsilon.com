@@ -1,5 +1,5 @@
 ---
-title: Modulation Error 
+layout: home
 ---
 
-Some cute error message should be here. I wish I could tell you more. 
+Some cute error message should be here. I wish I could tell you more about the error. 
