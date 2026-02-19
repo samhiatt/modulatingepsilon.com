@@ -7,9 +7,14 @@ title: About
 ε
 
 def epsilon:
+
+
   noun[^2]:     "the fifth letter of the Greek alphabet ( Ε, ε ), transliterated as ‘e.’"
+
   symbol[^3]: "permittivity - 1. the ability of a substance to store electrical energy in an electric field."
+
   noun[^4]:     "an arbitrarily small positive quantity in mathematical analysis."  
+  
   symbol[^1]: "in [[machine learning]], within the subfield of [[reinforcement learning]], a small probability parameter (typically 0 < ε < 1) that determines the frequency of exploration versus exploitation; specifically, the probability of selecting a random action rather than the greedy action with the highest estimated value." 
 
 

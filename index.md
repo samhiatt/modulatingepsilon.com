@@ -3,4 +3,4 @@ layout: home
 list_title: Posts
 ---
 
-Welcome to _ΔΔodulating Ɛpsilon_! 
+![[2026-02-19 It's Like Fireworks in My Mind]]
