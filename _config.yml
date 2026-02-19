@@ -10,8 +10,18 @@ sass:
 baseurl: ""
 url: ""
 
+# Post display settings
+show_excerpts: true
+excerpt_separator: <!--more-->
+
 # Build settings
 markdown: kramdown
+future: false
+unpublished: false
+
+# Minima theme configuration
+minima:
+  date_format: "%b %-d, %Y"
 
 # header_pages:
 #   - /about.html
