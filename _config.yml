@@ -16,7 +16,7 @@ excerpt_separator: <!--more-->
 
 # Build settings
 markdown: kramdown
-future: false
+future: true
 unpublished: false
 
 # Minima theme configuration
