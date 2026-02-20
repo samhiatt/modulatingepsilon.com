@@ -8,7 +8,7 @@ theme: minima
 sass:
   quiet_deps: true
 baseurl: ""
-url: ""
+url: "https://modulatingepsilon.com"
 
 # Post display settings
 show_excerpts: true
