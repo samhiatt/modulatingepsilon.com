@@ -1,8 +1,7 @@
 ---
 layout: post
 title: It's Like Fireworks In My Mind
-date: 2026-02-19
-time: 02:08:57-05:00
+date: 2026-02-19 02:08:57 -0500
 tags:
 ---
 
