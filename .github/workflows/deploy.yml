@@ -34,21 +34,17 @@ jobs:
           AWS_REGION: 'us-east-1' # e.g., 'us-east-1'
           SOURCE_DIR: './_site'
 
-      - name: Install AWS CLI
-        if: ${{ secrets.CLOUDFRONT_DISTRIBUTION_ID != '' }}
-        run: |
-          sudo apt-get update
-          sudo apt-get install -y awscli
-
-      # Optional: Only runs if CLOUDFRONT_DISTRIBUTION_ID is configured as a secret in repository settings
       - name: Invalidate CloudFront Cache
-        if: ${{ secrets.CLOUDFRONT_DISTRIBUTION_ID != '' }}
         env:
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           AWS_REGION: 'us-east-1'
           CLOUDFRONT_DISTRIBUTION_ID: ${{ secrets.CLOUDFRONT_DISTRIBUTION_ID }}
         run: |
+          if [ -z "$CLOUDFRONT_DISTRIBUTION_ID" ]; then
+            echo "CLOUDFRONT_DISTRIBUTION_ID is not set. Skipping invalidation."
+            exit 0
+          fi
           aws cloudfront create-invalidation \
             --distribution-id "$CLOUDFRONT_DISTRIBUTION_ID" \
             --paths "/*"
