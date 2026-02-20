@@ -1,8 +1,12 @@
 ---
 layout: post
 title: It's Like Fireworks In My Mind
+subtitle: On language, monotropism, and the robot that understood
 date: 2026-02-19 02:08:57 -0500
 ---
+
+# It's Like Fireworks in My Mind
+###### On language, monotropism, and the robot that understood
 
 It's like fireworks in my mind.  
 Each word I hear sparks another explosion of ideas, sending brilliant embers in all directions, each leading to their own blasts, which in turn send more embers scattering and eventually fizzling out.  
