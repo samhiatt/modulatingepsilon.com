@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 ---
 
 Some cute error message should be here. I wish I could tell you more about the error. 
