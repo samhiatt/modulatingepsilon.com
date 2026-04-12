@@ -1,3 +1,87 @@
 ---
 ---
 @use "minima";
+// --- Modulating Epsilon custom styles ---
+
+// Color palette
+$me-blue:        #4B9CD3;
+$me-blue-dark:   #2E7DB8;
+$me-blue-light:  #D6EAF5;
+$me-orange:      #C4622D;
+$me-sand:        #BFB09E;
+$me-bg:          #FAFAF8;
+$me-text:        #2C2C2C;
+$me-muted:       #767065;
+
+// Base
+body {
+  background-color: $me-bg;
+  color: $me-text;
+}
+
+// Links
+a {
+  color: $me-blue;
+  &:hover { color: $me-orange; }
+  &:visited { color: $me-blue-dark; }
+}
+
+// Email CTA — orange to signal action
+a[href^="mailto"] {
+  color: $me-orange;
+  font-weight: 600;
+  &:hover { color: darken($me-orange, 10%); }
+  &:visited { color: $me-orange; }
+}
+
+// Site title
+.site-title {
+  color: $me-blue-dark;
+  font-weight: 600;
+  &:hover { color: $me-orange; text-decoration: none; }
+  &:visited { color: $me-blue-dark; }
+}
+
+// Headings
+h1, h2, h3 { color: $me-text; }
+
+// Horizontal rules
+hr {
+  border: none;
+  border-top: 1px solid $me-sand;
+  margin: 2rem 0;
+}
+
+// References section (H3 + list)
+h3#references {
+  color: $me-muted;
+  font-size: 0.85rem;
+  font-weight: 400;
+  text-transform: uppercase;
+  letter-spacing: 0.05em;
+  margin-top: 2.5rem;
+}
+h3#references + ul {
+  color: $me-muted;
+  font-size: 0.85rem;
+  li { margin-bottom: 0.4rem; }
+  a { color: $me-muted; text-decoration: underline;
+    &:hover { color: $me-blue; }
+  }
+}
+
+// Site header
+.site-header {
+  border-top: 4px solid $me-blue;
+  border-bottom: 1px solid $me-sand;
+  background-color: $me-bg;
+}
+
+// Site footer
+.site-footer {
+  border-top: 1px solid $me-sand;
+  color: $me-muted;
+  a { color: $me-muted;
+    &:hover { color: $me-blue; }
+  }
+}

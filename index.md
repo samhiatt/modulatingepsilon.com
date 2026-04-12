@@ -6,15 +6,14 @@ layout: home
 
 AI offers 'help' instantly, anytime. It's easy to be seduced, because it is genuinely helpful in many ways. 
 
-But these tools can be surprisingly alienating.  
-If understanding isn't shared, it becomes alienation.  
+But these tools can be surprisingly isolating.  
+If understanding isn't shared, it is alienating.  
 If it's happening at 2am, it's likely dysregulating.  
 
 You won't find the solutions to these challenges in Silicon Valley.   
 
 The answers are in the body. They're in the present moment, here and now.
 
----
 
 ## What I offer
 
@@ -24,7 +23,7 @@ If you've ever opened up to an AI chatbot, freely sharing your thoughts and emot
 
 AI tools can help your clients find greater _internal clarity_, but if that understanding isn't shared with another human it can actually become a heavy burden; it can become alienating.   
 
-Better prompts aren't the answer (though sometimes that can help; let's talk about how...).
+Better prompts aren't the answer (though sometimes that can help; let's talk about how...)
 
 The solution is in bringing awareness back to the body, back to the present moment. That's something they need a _real human_ to help them navigate. 
 
@@ -66,7 +65,7 @@ Email me at [sam@modulatingepsilon.com](mailto:sam@modulatingepsilon.com).
 
 *This website was built with AI assistance. I use AI tools in my work and I am transparent about when and how, but I will never post AI slop. If you're curious about my process, [I write about it](/blog).*
 
-## References
+### References
 
 - Sebastian Dohnány et al. (2026). Technological folie à deux: Feedback Loops Between AI Chatbots and Mental Illness. arXiv:2507.19218 (cs.HC). https://arxiv.org/abs/2507.19218
 	  

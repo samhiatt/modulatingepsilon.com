@@ -2,4 +2,8 @@
 layout: page
 ---
 
-Some cute error message should be here. I wish I could tell you more about the error. 
+It appears you have discovered the outer limits of Modulating Epsilon's knowledge base. 
+
+... Or maybe a link was typed incorrectly?
+
+Regardless, there is nothing more to explore at this particular URL. 
