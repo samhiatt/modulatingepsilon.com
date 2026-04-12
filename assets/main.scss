@@ -46,6 +46,17 @@ a[href^="mailto"] {
 // Headings
 h1, h2, h3 { color: $me-text; }
 
+h2 {
+  border-top: 3px solid $me-blue;
+  padding-top: 1.2rem;
+  margin-top: 2rem;
+}
+
+h3 {
+  border-left: 4px solid $me-sand;
+  padding-left: 0.75rem;
+}
+
 // Horizontal rules
 hr {
   border: none;
@@ -80,7 +91,7 @@ h3#references + ul {
 
 // Site footer
 .site-footer {
-  border-top: 1px solid $me-sand;
+  border-top: none;
   color: $me-muted;
   a { color: $me-muted;
     &:hover { color: $me-blue; }

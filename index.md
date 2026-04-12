@@ -30,7 +30,9 @@ The solution is in bringing awareness back to the body, back to the present mome
 I offer psychoeducation and workshops for practitioners, tailored to your needs.  
 I also consult on specific cases. Let's talk about how I can help.  
 
+<!--
 [Email me](mailto:sam@modulatingepsilon.com) to arrange a free 15 minute consultation. 
+-->
 
 ### For Schools
 
@@ -46,16 +48,16 @@ Your clients are using AI to help them think and plan, but they need a _real hum
 When AI interactions are accompanying them down deep rabbit holes, it's easy to get lost. 
 The _grounding_ that only _humans_ can provide is irreplaceable. 
 
----
 
 ## About me
 
 I'm Sam Hiatt, a software engineer exploring the intersection of AI safety and neurodivergence. My background is in machine learning engineering, and my current work draws on both that technical foundation and my lived experience as a neurodivergent person navigating AI tools, exploring where AI helps, and when it falls short. 
 
+---
 
 I also write about the intersection of AI, neurodivergence, and communication from lived experience. [Read my origin story →](/blog)
 
-### <a name="contact"></a>Get in touch
+## <a name="contact"></a>Get in touch
 
 I offer a free 15-minute introductory consultation to understand your context before proposing anything.
 
@@ -65,7 +67,7 @@ Email me at [sam@modulatingepsilon.com](mailto:sam@modulatingepsilon.com).
 
 *This website was built with AI assistance. I use AI tools in my work and I am transparent about when and how, but I will never post AI slop. If you're curious about my process, [I write about it](/blog).*
 
-### References
+## References
 
 - Sebastian Dohnány et al. (2026). Technological folie à deux: Feedback Loops Between AI Chatbots and Mental Illness. arXiv:2507.19218 (cs.HC). https://arxiv.org/abs/2507.19218
 	  
