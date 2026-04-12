@@ -1,8 +1,10 @@
 ---
 layout: home
 ---
-
+<!--
+Site title is in the header already. Looks better with this removed.
 # Modulating Epsilon 米
+-->
 
 AI offers 'help' instantly, anytime. It's easy to be seduced, because it is genuinely helpful in many ways. 
 
@@ -67,7 +69,8 @@ Email me at [sam@modulatingepsilon.com](mailto:sam@modulatingepsilon.com).
 
 *This website was built with AI assistance. I use AI tools in my work and I am transparent about when and how, but I will never post AI slop. If you're curious about my process, [I write about it](/blog).*
 
-## References
+---
+### References
 
 - Sebastian Dohnány et al. (2026). Technological folie à deux: Feedback Loops Between AI Chatbots and Mental Illness. arXiv:2507.19218 (cs.HC). https://arxiv.org/abs/2507.19218
 	  

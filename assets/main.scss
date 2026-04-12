@@ -66,12 +66,8 @@ hr {
 
 // References section (H3 + list)
 h3#references {
-  color: $me-muted;
-  font-size: 0.85rem;
-  font-weight: 400;
-  text-transform: uppercase;
-  letter-spacing: 0.05em;
-  margin-top: 2.5rem;
+  border-left: none;
+  padding-left: 0;
 }
 h3#references + ul {
   color: $me-muted;
