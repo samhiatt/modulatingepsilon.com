@@ -8,8 +8,8 @@ Site title is in the header already. Looks better with this removed.
 
 AI offers 'help' instantly, anytime. It's easy to be seduced, because it is genuinely helpful in many ways. 
 
-But these tools can be surprisingly isolating.  
-If understanding isn't shared, it is alienating.  
+But these tools can be surprisingly isolating.[^1]   
+If understanding isn't shared, it is alienating.[^2]  
 If it's happening at 2am, it's likely dysregulating.  
 
 You won't find the solutions to these challenges in Silicon Valley.   
@@ -25,7 +25,7 @@ If you've ever opened up to an AI chatbot, freely sharing your thoughts and emot
 
 AI tools can help your clients find greater _internal clarity_, but if that understanding isn't shared with another human it can actually become a heavy burden; it can become alienating.   
 
-Better prompts aren't the answer (though sometimes that can help; let's talk about how...)
+Better prompts aren't the answer[^3] (though sometimes that can help; let's talk about how...)
 
 The solution is in bringing awareness back to the body, back to the present moment. That's something they need a _real human_ to help them navigate. 
 
@@ -67,11 +67,19 @@ Email me at [sam@modulatingepsilon.com](mailto:sam@modulatingepsilon.com).
 
 ---
 
-*This website was built with AI assistance. I use AI tools in my work and I am transparent about when and how, but I will never post AI slop. If you're curious about my process, [I write about it](/blog).*
+*This website was built with AI assistance. I use AI tools in my work and I am transparent about when and how, but I will never post AI slop. 米*
+
+<!--
+#TODO add this line once my process is documented. 
+*If you're curious about my process, [I write about it](/blog).* 
+-->
 
 ---
 ### References
 
-- Sebastian Dohnány et al. (2026). Technological folie à deux: Feedback Loops Between AI Chatbots and Mental Illness. arXiv:2507.19218 (cs.HC). https://arxiv.org/abs/2507.19218
-	  
-- Iftikhar, Z., Xiao, A., Ransom, S., Huang, J., & Suresh, H. (2025). How LLM Counselors Violate Ethical Standards in Mental Health Practice: A Practitioner-Informed Framework. _Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society_, _8_(2), 1311-1323. https://doi.org/10.1609/aies.v8i2.36632
+[^1]: Dohnány, S. et al. (2026). Technological folie à deux: Feedback Loops Between AI Chatbots and Mental Illness. arXiv:2507.19218 (cs.HC). https://arxiv.org/abs/2507.19218
+
+[^2]: Harari, Y.N. (2024). Interview on _The Daily Show with Jon Stewart_. “Nexus” & Threat of AI in the Information Age. Sept 9, 2024. Comedy Central. https://youtu.be/euBAVec2RhE?t=11m57s
+
+[^3]: Iftikhar, Z. et al. (2025). How LLM Counselors Violate Ethical Standards in Mental Health Practice: A Practitioner-Informed Framework. _Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society_, _8_(2), 1311-1323. https://doi.org/10.1609/aies.v8i2.36632
+
