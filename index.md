@@ -2,7 +2,7 @@
 layout: home
 ---
 
-# Modulating Epsilon
+# Modulating Epsilon 米
 
 AI offers 'help' instantly, anytime. It's easy to be seduced, because it is genuinely helpful in many ways. 
 
