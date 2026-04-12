@@ -98,4 +98,8 @@ h3#references + ul {
     padding-bottom: 3rem;      // a bit more breathing room on small screens
   }
 }
-
+// Footer — vertically center columns
+.footer-col-wrapper {
+  display: flex;
+  align-items: center;
+}
