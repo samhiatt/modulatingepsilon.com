@@ -1,6 +1,7 @@
 ---
 ---
 @use "minima";
+@use "sass:color";
 // --- Modulating Epsilon custom styles ---
 
 // Color palette
@@ -30,7 +31,7 @@ a {
 a[href^="mailto"] {
   color: $me-orange;
   font-weight: 600;
-  &:hover { color: darken($me-orange, 10%); }
+  &:hover { color: color.scale($me-orange, $lightness: -10%); }
   &:visited { color: $me-orange; }
 }
 
