@@ -2,8 +2,8 @@
 # See https://jekyllrb.com/docs/configuration/options/
 title: Modulating Epsilon
 author: Copyright © 2026 - Sam Hiatt
-email: modulatingepsilon@gmail.com
-description: Let's make big ideas matter
+email: sam@modulatingepsilon.com
+description: Mindful Exploration. Sometimes using AI. Always aware of the body, the moment here and now.
 theme: minima
 sass:
   quiet_deps: true
@@ -23,6 +23,7 @@ unpublished: false
 minima:
   date_format: "%b %-d, %Y"
 
-# header_pages:
-#   - /about.html
-#   - /contact.html
+header_pages:
+  - about.md
+  - blog.md
+  - contact.md
