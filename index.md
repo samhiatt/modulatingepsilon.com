@@ -60,7 +60,7 @@ I offer psychoeducation and workshops for practitioners, tailored to your needs.
 I also consult on specific cases. Let's talk about how I can help.  
 
 <!--
-[Email me](mailto:sam@modulatingepsilon.com) to arrange a free 15 minute consultation. 
+[Email me](mailto:info@modulatingepsilon.com) to arrange a free 20 minute consultation. 
 -->
 
 ### For Schools
@@ -92,7 +92,7 @@ I offer a free 20-minute introductory consultation to understand your context be
 
 [Book an appointment!](https://cal.com/modulatingepsilon/20min)
 
-You can also email me at [sam@modulatingepsilon.com](mailto:sam@modulatingepsilon.com).
+You can also email me at [info@modulatingepsilon.com](mailto:info@modulatingepsilon.com).
 
 ---
 

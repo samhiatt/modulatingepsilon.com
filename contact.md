@@ -15,5 +15,5 @@ I offer a free 20-minute introductory consultation to understand your context be
 
 [Book an appointment!](https://cal.com/modulatingepsilon/20min)
 
-**Email:** [sam@modulatingepsilon.com](mailto:sam@modulatingepsilon.com)
+Or feel free to email me: [info@modulatingepsilon.com](mailto:info@modulatingepsilon.com)
 
