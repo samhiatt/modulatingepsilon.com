@@ -59,27 +59,23 @@ Your students are using AI to complete homework assignments. Could it actually b
 
 Let's get beyond the question of "did the student use AI for this assignment?" to "_how_ did they use AI?" Was it used to _earn understanding_, or was important cognitive work _offloaded_; nothing learned, just more clutter created?
 
-AI tools can be powerful in education, creating customized curricula tuned to individual students' needs, and offering _unlimited attention_, always on demand. Your students need help learning to wield this power responsibly. 
+AI tools can be powerful in education, creating customized curricula tuned to individual students' needs, and offering _unlimited attention_, always on demand. Your students need help learning to wield this power responsibly.  
 
 <!--
 # 04/14/26 23:09
 I am tempted to cite Spiderman here. 
 -->
 
+Let's talk about practical guidelines to help ensure your students' use of AI is actually helping them learn.  
+
 ### For Coaches
 
-Your clients are using AI to help them think and plan, but they need a _real human_, like you, to help them get moving. 
-When AI interactions are accompanying them down deep rabbit holes, it's easy to get lost. 
-The _grounding_ that only _humans_ can provide is irreplaceable. 
+Your clients are using AI to help them think and plan, but they need a _real human_, like you, to help them get moving.  
+When AI interactions are accompanying them down deep rabbit holes, it's easy to get lost.  
 
-<!--
-# 04/14/26 20:31
-The _bicycle crank_ metaphor might be perfect here. The idea of "pedaling hard, working against internal friction, but ungrounded - won't go anywhere." 
-Also the idea of _human grounding_ as someone _pushing back_ in order to build strength.
+The _grounding_ that only _humans_ provide is irreplaceable. 
 
-## Phrases to play with:
-- pivotal moment
--->
+Let's talk about how you and your clients can responsibly use AI tools, and the unique role you play as a human; what you provide that no AI ever could. 
 
 ## About me
 
@@ -97,9 +93,11 @@ I also write about the intersection of AI, neurodivergence, and communication fr
 
 ## Get in touch
 
-I offer a free 20-minute introductory consultation to understand your context before proposing anything.
+I offer a free 20-minute introductory consultation to understand your context before proposing anything.  
 
-[Schedule a conversation](https://cal.com/modulatingepsilon)
+[Schedule a conversation with ME](https://cal.com/modulatingepsilon)
+
+Following our initial conversation, I'll propose an engagement tailored to your needs.
 
 You can also email me at [info@modulatingepsilon.com](mailto:info@modulatingepsilon.com).
 

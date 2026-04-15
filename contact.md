@@ -13,7 +13,7 @@ I'm interested in your perspective. Tell me what you're seeing.
 
 I offer a free 20-minute introductory consultation to understand your context before proposing anything.
 
-[Schedule a conversation](https://cal.com/modulatingepsilon)
+[Schedule a conversation with ME](https://cal.com/modulatingepsilon)
 
 Or feel free to email me: [info@modulatingepsilon.com](mailto:info@modulatingepsilon.com)
 
