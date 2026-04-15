@@ -1,25 +1,24 @@
 ---
 layout: home
 ---
-<!--
-Site title is in the header already. Looks better with this removed.
-# Modulating Epsilon 米
--->
-
 AI offers 'help' instantly, anytime. It's easy to be seduced, because it is genuinely helpful in many ways. 
 
 But these tools can be surprisingly isolating.[^1]  
 If understanding isn't shared, it pushes us apart.[^2]   
 If it's happening at 2am, it's likely dysregulating.  
 
-<!--
-I think I could clarify the context of _what_ is happening at 2am
--->
-
 You won't find the solutions to these challenges in Silicon Valley.   
 
 The answers are in the body. They're in the present moment, here and now.
 
+My approach to addressing these challenges is based in my lived experience using AI tools to help me process the 🤯 of recognizing my own neurodivergence.  
+I know what it feels like to be pulled into monotropic [attention tunnels](https://oolong.medium.com/starting-points-for-understanding-autism-3573817402f2) that make me lose my sense of time. I know what it is like to find clarity deep down those winding paths, and then struggle to be understood when trying to talk about it with humans.  
+
+I understand the irresistible potential these tools have to help accommodate neurodiverse communication needs. 
+I also understand how neurodivergent people are disproportionately at risk of getting pulled in.  
+<!-- Citation needed.  -->
+
+My work navigates the potential of AI tools, mindfully engaging, with awareness of the risks.
 
 ## What I offer
 
@@ -27,41 +26,32 @@ The answers are in the body. They're in the present moment, here and now.
 
 If you've ever opened up to an AI chatbot, freely sharing your thoughts and emotions with it, then you probably understand how powerful that experience can be. _It gets you,_ instantly. 
 
-AI tools can help your clients find greater _internal clarity_. But if that understanding isn't shared with other humans, it can become an isolating barrier; understanding can actually become alienating.  
+AI will enthusiastically accompany your clients deep down obscure rabbit holes, well into the morning. They might be worth exploring. Probably not at 2am.
 
-Chasing better outputs isn't the answer (though sometimes prompt engineering techniques can help; let's talk about how...).[^3]  
+AI won't help them bring their awareness to their bodies and the present moment; you can. 
 
-<!--
-# 04/13/26 15:53
-# Holding off on this text which I'm still working on:
+That _instant attunement_ and _infinite attention_ that AI offers makes it incredibly powerful;
+it's also what makes it so dangerous.[^1]  
 
-Your clients might have profound realizations while chatting with AI, at 2am, all alone.  
-But they need real _human_ connection to stay grounded in reality.[^1]  
+Through repeated engagement with AI, your client might develop a _bespoke lexicon_, words and phrases that help them conceptualize their ideas more efficiently; words that no other humans understand. 
+(By the way, does that term resonate with you? It's an example of my own _bespoke lexicon_.)
 
-You understand your clients in a way that AI can't.  
-And AI 'understands' your clients in a way that can draw them into deep attention tunnels, for better or for worse.
+Chasing better outputs isn't the answer (though sometimes prompt engineering techniques can help; let's talk about how...)[^3]  
 
-Your clients need real humans like you who understand what it's like to live in a suit of flesh and blood, beholden to the reality of time and space. They need someone who can help them bring their awareness back to their bodies, to know when to pause, get up and go for a walk.
--->
-
-<!-- 
-# 04/12/26 23:43
-I feel like this is getting better, but this paragraph hasn't really landed yet. ... It still needs to show how AI plays a role in this. And I never actually got to the phrase "grounding in the present moment"...
-I think I am getting confused as I try to go in a few different directions here, trying to cover the ideas of _human connection_ as well as _nervous system regulation_, and also _shared context_. Maybe I need to take it all those directions. ... Yeah, I do, naturally.
--->
+Without _shared language_, understanding becomes isolation.
 
 <!--
-They might have even discovered the a _unifying theory of everything_[^4] but find themselves yet again in the same place every morning, struggling to find the ground.[^1] 
--->
+#TODO Link to Ted Chiang's _Understand_[^4]
+-->  
 
-The solution is in bringing awareness to the body, to the present moment. That's something your clients need a _real human_ to help navigate. 
+I teach practical methods - sometimes using AI, other times deliberately avoiding it - to establish _common ground_ between _humans_, to support shared understanding.
 
 I offer psychoeducation and workshops for practitioners, tailored to your needs.  
-I also consult on specific cases. Let's talk about how I can help.  
+Let me help you understand how your clients are engaging with AI, how it might be helping them, and when it can go wrong.  
 
-<!--
-[Email me](mailto:info@modulatingepsilon.com) to arrange a free 20 minute consultation. 
--->
+My approach to responsible engagement with AI prioritizes body mindfulness, connection to the moment here and now. 
+
+I also consult on specific cases. Let's talk about how I can help.  
 
 ### For Schools
 
@@ -71,37 +61,51 @@ Let's get beyond the question of "did the student use AI for this assignment?" t
 
 AI tools can be powerful in education, creating customized curricula tuned to individual students' needs, and offering _unlimited attention_, always on demand. Your students need help learning to wield this power responsibly. 
 
+<!--
+# 04/14/26 23:09
+I am tempted to cite Spiderman here. 
+-->
+
 ### For Coaches
 
 Your clients are using AI to help them think and plan, but they need a _real human_, like you, to help them get moving. 
 When AI interactions are accompanying them down deep rabbit holes, it's easy to get lost. 
 The _grounding_ that only _humans_ can provide is irreplaceable. 
 
+<!--
+# 04/14/26 20:31
+The _bicycle crank_ metaphor might be perfect here. The idea of "pedaling hard, working against internal friction, but ungrounded - won't go anywhere." 
+Also the idea of _human grounding_ as someone _pushing back_ in order to build strength.
+
+## Phrases to play with:
+- pivotal moment
+-->
 
 ## About me
 
 I'm Sam Hiatt, a software engineer exploring the intersection of AI safety and neurodivergence. My background is in machine learning engineering, and my current work draws on both that technical foundation and my lived experience as a neurodivergent person navigating AI tools, exploring where AI helps, and when it falls short. 
 
+### Recent Engagements
+- Attended the [2025 Stanford Neurodiversity Summit](https://med.stanford.edu/neurodiversity/SNS2025.html)
+- Participated in the [2025 Autism & Suicide Prevention Conference](https://aspc.weareiti.org/), hosted by [ITI](https://weareiti.org/) and [Lisa Morgan Consulting LLC](https://www.autismcrisissupport.com/)
+- Guest on [Autism Stories](https://www.autismpersonalcoach.com/autismstories/episode/e0e70eae/autism-stories-sam-hiatt) podcast, hosted by [Doug Blecher](https://www.autismpersonalcoach.com)
+- Attended [Neurodiversion 2026](https://neurodiversion.org/)
+
 ---
 
 I also write about the intersection of AI, neurodivergence, and communication from lived experience. [Read my origin story →](/blog)
 
-## <a name="contact"></a>Get in touch
+## Get in touch
 
 I offer a free 20-minute introductory consultation to understand your context before proposing anything.
 
-[Book an appointment!](https://cal.com/modulatingepsilon/20min)
+[Schedule a conversation](https://cal.com/modulatingepsilon)
 
 You can also email me at [info@modulatingepsilon.com](mailto:info@modulatingepsilon.com).
 
 ---
 
-*This website was built with AI assistance. I use AI tools in my work and I am transparent about when and how, but I will never post AI slop. 米*
-
-<!--
-#TODO add this line once my process is documented. 
-*If you're curious about my process, [I write about it](/blog).* 
--->
+*This website was built with AI assistance. I use AI tools in my work and I am transparent about when and how, but I will never post AI slop.* 米
 
 ---
 ### References
@@ -113,5 +117,5 @@ You can also email me at [info@modulatingepsilon.com](mailto:info@modulatingepsi
 [^3]: Iftikhar, Z. et al. (2025). How LLM Counselors Violate Ethical Standards in Mental Health Practice: A Practitioner-Informed Framework. _Proceedings of the AAAI/ACM Conference on AI, Ethics, and Society_, _8_(2), 1311-1323. https://doi.org/10.1609/aies.v8i2.36632
 
 <!--
-[^4]: #TODO Look up video where professor was saying how often he gets calls from people saying that ChatGPT helped them uncover this great truth.
+[^4]: #TODO add citation to Ted Chiang's short story _Understand_.
 -->
