@@ -91,11 +91,11 @@ I'm Sam Hiatt, a software engineer exploring the intersection of AI safety and n
 
 ---
 
-I also write about the intersection of AI, neurodivergence, and communication from lived experience. [Read my origin story →](/blog)
+I also write about the intersection of AI, neurodivergence, and communication from lived experience. [Read my origin story →](/blog.html)
 
 ## Get in touch
 
-I offer a free 20-minute introductory consultation to understand your context before proposing anything.  
+I offer a free introductory consultation to understand your context before proposing anything.  
 
 [Schedule a conversation with ME](https://cal.com/modulatingepsilon)
 
