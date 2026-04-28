@@ -11,7 +11,7 @@ or an educator grappling with the ways that AI is reshaping the way your student
 
 I'm interested in your perspective. Tell me what you're seeing.
 
-I offer a free 20-minute introductory consultation to understand your context before proposing anything.
+I offer a free introductory consultation to understand your context before proposing anything.
 
 [Schedule a conversation with ME](https://cal.com/modulatingepsilon)
 
