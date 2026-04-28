@@ -1,5 +1,5 @@
 ---
 layout: blog
 title: Blog
-list_title: My Writing
+list_title: My Story
 ---
