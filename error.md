@@ -2,8 +2,8 @@
 layout: page
 ---
 
-It appears you have discovered the outer limits of Modulating Epsilon's knowledge base. 
+It appears you have discovered the outer limits of Modulating Epsilon's context. 
 
-... Or maybe a link was typed incorrectly?
+Or maybe there's a typo in the address?
 
-Regardless, there is nothing more to explore at this particular URL. 
+Regardless, there is not much to explore at this particular URL. 
